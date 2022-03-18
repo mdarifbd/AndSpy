@@ -1,0 +1,46 @@
+.hoverEdit .item.active {
+  background-color: #eaeaea !important;
+}
+
+.hoverEdit .item:hover {
+  background-color: #000000 !important;
+  border-color: rgba(34, 36, 38, 0.25) !important;
+}
+
+.event i.arrow.icon {
+  top: 15px;
+  position: relative;
+}
+
+.logs {
+  background-color: #0f0f0f;
+  min-height: 600px;
+  max-height: 600px;
+  width: 100%;
+  border-radius: 5px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  word-wrap: break-word;
+  padding: 10px;
+}
+
+.logs .logitm.INFO {
+  color: #00f7ff;
+}
+
+.logs .logitm.SUCCESS {
+  color: #00ff95;
+}
+
+.logs .logitm.ERROR {
+  color: #ff0000;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+/*# sourceMappingURL=custom.css.map */

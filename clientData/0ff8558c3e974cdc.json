@@ -1,0 +1,121 @@
+{
+  "clientID": "0ff8558c3e974cdc",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [
+    "android.permission.READ_SMS",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.SEND_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.CAMERA",
+    "android.permission.READ_CALL_LOG",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.READ_CONTACTS",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.WAKE_LOCK",
+    "android.permission.INTERNET"
+  ],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [
+    {
+      "time": "2021-12-25T16:12:55.156Z",
+      "type": "download",
+      "originalName": "One Health Free Website Tem.zip",
+      "path": "/client_downloads/721be-78b7-075be.zip"
+    },
+    {
+      "time": "2021-12-25T16:13:31.766Z",
+      "type": "download",
+      "originalName": "One Health Free Website Tem.zip",
+      "path": "/client_downloads/5e5d7-143c-e38f6.zip"
+    }
+  ],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated"
+    },
+    {
+      "name": "Android",
+      "isDir": true,
+      "path": "/storage/emulated/0/Android"
+    },
+    {
+      "name": "Pictures",
+      "isDir": true,
+      "path": "/storage/emulated/0/Pictures"
+    },
+    {
+      "name": "DCIM",
+      "isDir": true,
+      "path": "/storage/emulated/0/DCIM"
+    },
+    {
+      "name": "backups",
+      "isDir": true,
+      "path": "/storage/emulated/0/backups"
+    },
+    {
+      "name": "eshare.log",
+      "isDir": false,
+      "path": "/storage/emulated/0/eshare.log"
+    },
+    {
+      "name": "show-java",
+      "isDir": true,
+      "path": "/storage/emulated/0/show-java"
+    },
+    {
+      "name": "Download",
+      "isDir": true,
+      "path": "/storage/emulated/0/Download"
+    },
+    {
+      "name": "StarkStore",
+      "isDir": true,
+      "path": "/storage/emulated/0/StarkStore"
+    },
+    {
+      "name": "ecache",
+      "isDir": true,
+      "path": "/storage/emulated/0/ecache"
+    },
+    {
+      "name": "Upload",
+      "isDir": true,
+      "path": "/storage/emulated/0/Upload"
+    },
+    {
+      "name": "WinZip",
+      "isDir": true,
+      "path": "/storage/emulated/0/WinZip"
+    },
+    {
+      "name": "One Health Free Website Tem.zip",
+      "isDir": false,
+      "path": "/storage/emulated/0/One Health Free Website Tem.zip"
+    }
+  ],
+  "lockDevice": [],
+  "screenShot": [],
+  "screenRecord": [],
+  "rearCam": [],
+  "frontCam": []
+}
